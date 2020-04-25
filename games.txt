@@ -12,3 +12,4 @@ League Of Legends
 PUBG
 CSGO
 Apex legends
+Dota
