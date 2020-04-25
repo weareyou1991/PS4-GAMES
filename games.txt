@@ -1,4 +1,4 @@
-list of games
+list of games for ps4 and pc
 Just dance
 Nba 2k
 Gta 5
@@ -6,3 +6,9 @@ Minecraft
 Injustice
 Battlefield 1
 Terraria
+
+PC
+League Of Legends
+PUBG
+CSGO
+Apex legends
