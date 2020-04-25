@@ -1,4 +1,4 @@
-list of games for ps4 and pc
+list of games for ps4 and pc and some old games
 Just dance
 Nba 2k
 Gta 5
@@ -12,3 +12,10 @@ League Of Legends
 PUBG
 CSGO
 Apex legends
+
+OLD GAMES
+Mario
+Pacman
+Atari
+Pong
+Snake
