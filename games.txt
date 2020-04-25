@@ -1,4 +1,4 @@
-list of games for ps4 and pc
+list of games for ps4 and pc and sports
 Just dance
 Nba 2k
 Gta 5
@@ -13,3 +13,8 @@ PUBG
 CSGO
 Apex legends
 Dota
+
+basketball
+football
+hockey
+volleyball
